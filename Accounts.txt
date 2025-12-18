@@ -1,0 +1,11 @@
+NOTE: All account credentials at the SQL
+
+Student Account:
+	Username = student1
+	Password = password123
+Employee Account:
+	Username = registrar1
+	Password = password123
+Admin Account:
+	Username = admin1
+	Password = password123
